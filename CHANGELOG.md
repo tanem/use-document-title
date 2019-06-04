@@ -1,6 +1,13 @@
 # Changelog
 
-## [v1.0.1](https://github.com/tanem/use-document-title/tree/v1.0.1) (2019-06-05)
+## [v1.0.2](https://github.com/tanem/use-document-title/tree/v1.0.2) (2019-06-05)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.1...v1.0.2)
+
+**Merged pull requests:**
+
+- Update keywords [\#3](https://github.com/tanem/use-document-title/pull/3) ([tanem](https://github.com/tanem))
+
+## [v1.0.1](https://github.com/tanem/use-document-title/tree/v1.0.1) (2019-06-04)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.0...v1.0.1)
 
 **Merged pull requests:**
