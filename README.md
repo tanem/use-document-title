@@ -1,8 +1,8 @@
 # use-document-title
 
+[![npm version][npmv-image]][npmv-url]
 [![build status][travis-image]][travis-url]
 [![coverage status][codecov-image]][codecov-url]
-[![npm version][npmv-image]][npmv-url]
 [![npm downloads][npmd-image]][npmd-url]
 
 > A React hook that sets the current title of the document.
@@ -63,11 +63,11 @@ For the minified production version, make sure you have already included:
 
 MIT
 
+[npmv-image]: https://img.shields.io/npm/v/@tanem/use-document-title.svg?style=flat-square
+[npmv-url]: https://www.npmjs.com/package/@tanem/use-document-title
 [travis-image]: https://img.shields.io/travis/tanem/use-document-title/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/tanem/use-document-title
 [codecov-image]: https://img.shields.io/codecov/c/github/tanem/use-document-title.svg?style=flat-square
 [codecov-url]: https://codecov.io/gh/tanem/use-document-title
-[npmv-image]: https://img.shields.io/npm/v/use-document-title.svg?style=flat-square
-[npmv-url]: https://www.npmjs.com/package/use-document-title
-[npmd-image]: https://img.shields.io/npm/dm/use-document-title.svg?style=flat-square
-[npmd-url]: https://www.npmjs.com/package/use-document-title
+[npmd-image]: https://img.shields.io/npm/dm/@tanem/use-document-title.svg?style=flat-square
+[npmd-url]: https://www.npmjs.com/package/@tanem/use-document-title

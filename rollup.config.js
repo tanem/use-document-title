@@ -23,7 +23,6 @@ const getGlobals = bundleType => {
 
   switch (bundleType) {
     case UMD_DEV:
-      return { ...baseGlobals, 'prop-types': 'PropTypes' }
     case UMD_PROD:
       return baseGlobals
     default:
@@ -49,8 +48,6 @@ const getExternal = bundleType => {
     case CJS_PROD:
     case ES:
       return makeExternalPredicate([...peerDependencies, ...dependencies])
-    case UMD_DEV:
-      return makeExternalPredicate([...peerDependencies, 'prop-types'])
     default:
       return makeExternalPredicate(peerDependencies)
   }
@@ -61,30 +58,7 @@ const isProduction = bundleType =>
 
 const getPlugins = bundleType => [
   nodeResolve(),
-  commonjs({
-    include: 'node_modules/**',
-    namedExports: {
-      'node_modules/prop-types/index.js': [
-        'any',
-        'array',
-        'arrayOf',
-        'bool',
-        'element',
-        'exact',
-        'func',
-        'instanceOf',
-        'node',
-        'number',
-        'object',
-        'objectOf',
-        'oneOf',
-        'oneOfType',
-        'shape',
-        'string',
-        'symbol'
-      ]
-    }
-  }),
+  commonjs(),
   babel({
     babelrc: false,
     exclude: 'node_modules/**',
