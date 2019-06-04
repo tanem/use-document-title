@@ -40,9 +40,13 @@
     "url": "github:tanem/use-document-title"
   },
   "keywords": [
+    "document",
+    "hooks",
     "javascript",
-    "typescript",
-    "react"
+    "react",
+    "react-hooks",
+    "title",
+    "typescript"
   ],
   "author": "Tane Morgan (https://github.com/tanem)",
   "license": "MIT",
