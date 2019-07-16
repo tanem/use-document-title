@@ -59,7 +59,7 @@
     "react-dom": "^16.8.0"
   },
   "dependencies": {
-    "@babel/runtime": "^7.4.5"
+    "@babel/runtime": "^7.5.4"
   },
   "devDependencies": {
     "@babel/core": "7.5.4",
