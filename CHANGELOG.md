@@ -1,5 +1,15 @@
 # Changelog
 
+## [v1.0.5](https://github.com/tanem/use-document-title/tree/v1.0.5) (2019-07-31)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.4...v1.0.5)
+
+**Merged pull requests:**
+
+- Update dev dependencies [#71](https://github.com/tanem/use-document-title/pull/71) ([renovate[bot]](https://github.com/apps/renovate))
+- Bump lodash.template from 4.4.0 to 4.5.0 in /examples/basic-usage [#67](https://github.com/tanem/use-document-title/pull/67) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Revert "Use dependabot" [#70](https://github.com/tanem/use-document-title/pull/70) ([tanem](https://github.com/tanem))
+- Use dependabot [#68](https://github.com/tanem/use-document-title/pull/68) ([tanem](https://github.com/tanem))
+
 ## [v1.0.4](https://github.com/tanem/use-document-title/tree/v1.0.4) (2019-07-23)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.3...v1.0.4)
 
