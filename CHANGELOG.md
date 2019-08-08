@@ -1,5 +1,14 @@
 # Changelog
 
+## [v1.0.6](https://github.com/tanem/use-document-title/tree/v1.0.6) (2019-08-09)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.5...v1.0.6)
+
+**Merged pull requests:**
+
+- Add .mailmap [#74](https://github.com/tanem/use-document-title/pull/74) ([tanem](https://github.com/tanem))
+- Update dev dependencies [#72](https://github.com/tanem/use-document-title/pull/72) ([renovate[bot]](https://github.com/apps/renovate))
+- Use tanem-scripts [#73](https://github.com/tanem/use-document-title/pull/73) ([tanem](https://github.com/tanem))
+
 ## [v1.0.5](https://github.com/tanem/use-document-title/tree/v1.0.5) (2019-07-31)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.4...v1.0.5)
 
