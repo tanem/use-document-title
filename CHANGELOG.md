@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.0.7](https://github.com/tanem/use-document-title/tree/v1.0.7) (2019-08-11)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.6...v1.0.7)
+
+**Merged pull requests:**
+
+- Update dependency @testing-library/react to v9 [#76](https://github.com/tanem/use-document-title/pull/76) ([renovate[bot]](https://github.com/apps/renovate))
+- Update dev dependencies [#75](https://github.com/tanem/use-document-title/pull/75) ([renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.6](https://github.com/tanem/use-document-title/tree/v1.0.6) (2019-08-09)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.5...v1.0.6)
 
