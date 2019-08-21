@@ -1,5 +1,14 @@
 # Changelog
 
+## [v1.0.8](https://github.com/tanem/use-document-title/tree/v1.0.8) (2019-08-22)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.7...v1.0.8)
+
+**Merged pull requests:**
+
+- Update dependency eslint-plugin-react-hooks to v2 [#79](https://github.com/tanem/use-document-title/pull/79) ([renovate[bot]](https://github.com/apps/renovate))
+- Update dev dependencies [#77](https://github.com/tanem/use-document-title/pull/77) ([renovate[bot]](https://github.com/apps/renovate))
+- Update dev dependencies to v2 (major) [#78](https://github.com/tanem/use-document-title/pull/78) ([renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.7](https://github.com/tanem/use-document-title/tree/v1.0.7) (2019-08-11)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.6...v1.0.7)
 
