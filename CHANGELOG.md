@@ -1,5 +1,12 @@
 # Changelog
 
+## [v1.0.9](https://github.com/tanem/use-document-title/tree/v1.0.9) (2019-08-25)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.8...v1.0.9)
+
+**Merged pull requests:**
+
+- Update dev dependencies [#80](https://github.com/tanem/use-document-title/pull/80) ([renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.8](https://github.com/tanem/use-document-title/tree/v1.0.8) (2019-08-22)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.7...v1.0.8)
 
