@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.0.12](https://github.com/tanem/use-document-title/tree/v1.0.12) (2019-10-13)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.11...v1.0.12)
+
+**Merged pull requests:**
+
+- Update dev dependencies [#87](https://github.com/tanem/use-document-title/pull/87) ([renovate[bot]](https://github.com/apps/renovate))
+- Update dependency @babel/runtime to ^7.6.3 [#88](https://github.com/tanem/use-document-title/pull/88) ([renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.11](https://github.com/tanem/use-document-title/tree/v1.0.11) (2019-09-22)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.10...v1.0.11)
 
