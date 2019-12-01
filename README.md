@@ -4,6 +4,8 @@
 [![build status][travis-image]][travis-url]
 [![coverage status][codecov-image]][codecov-url]
 [![npm downloads][npmd-image]][npmd-url]
+[![size][size-image]][size-url]
+[![gzip size][gzip-size-image]][gzip-size-url]
 
 > A React hook that sets the current title of the document.
 
@@ -71,3 +73,7 @@ MIT
 [codecov-url]: https://codecov.io/gh/tanem/use-document-title
 [npmd-image]: https://img.shields.io/npm/dm/@tanem/use-document-title.svg?style=flat-square
 [npmd-url]: https://www.npmjs.com/package/@tanem/use-document-title
+[size-image]: http://img.badgesize.io/https://unpkg.com/@tanem/use-document-title/dist/use-document-title.umd.production.js?label=size&style=flat-square
+[size-url]: https://unpkg.com/@tanem/use-document-title/dist/
+[gzip-size-image]: http://img.badgesize.io/https://unpkg.com/@tanem/use-document-title/dist/use-document-title.umd.production.js?compression=gzip&label=gzip%20size&style=flat-square
+[gzip-size-url]: https://unpkg.com/@tanem/use-document-title/dist/
