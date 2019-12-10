@@ -11,5 +11,11 @@
     "enabled": true
   },
   "stabilityDays": 3,
-  "prCreation": "not-pending"
+  "prCreation": "not-pending",
+  "packageRules": [
+    {
+      "sourceUrlPrefixes": ["https://github.com/tanem/"],
+      "stabilityDays": 0
+    }
+  ]
 }
