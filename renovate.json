@@ -1,0 +1,15 @@
+{
+  "extends": [
+    "config:js-lib",
+    ":rebaseStalePrs",
+    ":automergeMinor",
+    ":label(internal)",
+    ":masterIssue"
+  ],
+  "ignorePaths": ["**/node_modules/**"],
+  "lockFileMaintenance": {
+    "enabled": true
+  },
+  "stabilityDays": 3,
+  "prCreation": "not-pending"
+}
