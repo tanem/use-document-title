@@ -1,5 +1,16 @@
 # Changelog
 
+## [v1.0.14](https://github.com/tanem/use-document-title/tree/v1.0.14) (2020-01-04)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.13...v1.0.14)
+
+#### :house: Internal
+
+- [#190](https://github.com/tanem/use-document-title/pull/190) Update typescript-eslint monorepo to v2.14.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#187](https://github.com/tanem/use-document-title/pull/187) Update dependency eslint-config-prettier to v6.9.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#189](https://github.com/tanem/use-document-title/pull/189) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#188](https://github.com/tanem/use-document-title/pull/188) Update dependency @types/jest to v24.0.25 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#145](https://github.com/tanem/use-document-title/pull/145) Update dependency rollup-plugin-terser to v5.1.3 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.13](https://github.com/tanem/use-document-title/tree/v1.0.13) (2019-12-27)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.12...v1.0.13)
 
