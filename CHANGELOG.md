@@ -1,5 +1,12 @@
 # Changelog
 
+## [v1.0.16](https://github.com/tanem/use-document-title/tree/v1.0.16) (2020-02-13)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.15...v1.0.16)
+
+#### :house: Internal
+
+- [#238](https://github.com/tanem/use-document-title/pull/238) Update dependency tanem-scripts to v5.0.10 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.15](https://github.com/tanem/use-document-title/tree/v1.0.15) (2020-02-13)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.14...v1.0.15)
 
