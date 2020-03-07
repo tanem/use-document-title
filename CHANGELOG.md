@@ -1,5 +1,17 @@
 # Changelog
 
+## [v1.0.19](https://github.com/tanem/use-document-title/tree/v1.0.19) (2020-03-07)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.18...v1.0.19)
+
+#### :house: Internal
+
+- [#258](https://github.com/tanem/use-document-title/pull/258) Update typescript-eslint monorepo to v2.22.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#257](https://github.com/tanem/use-document-title/pull/257) Update dependency tanem-scripts to v5.0.13 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#256](https://github.com/tanem/use-document-title/pull/256) Update dependency typescript to v3.8.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#255](https://github.com/tanem/use-document-title/pull/255) Update dependency rollup to v1.32.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#254](https://github.com/tanem/use-document-title/pull/254) Update babel monorepo to v7.8.6 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#253](https://github.com/tanem/use-document-title/pull/253) Update react monorepo ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.18](https://github.com/tanem/use-document-title/tree/v1.0.18) (2020-02-29)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.17...v1.0.18)
 
