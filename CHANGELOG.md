@@ -1,5 +1,14 @@
 # Changelog
 
+## [v1.0.21](https://github.com/tanem/use-document-title/tree/v1.0.21) (2020-03-21)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.20...v1.0.21)
+
+#### :house: Internal
+
+- [#270](https://github.com/tanem/use-document-title/pull/270) Update dependency tanem-scripts to v5.0.15 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#268](https://github.com/tanem/use-document-title/pull/268) Update dependency rollup to v2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#267](https://github.com/tanem/use-document-title/pull/267) Update dependency rollup-plugin-terser to v5.3.0 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.20](https://github.com/tanem/use-document-title/tree/v1.0.20) (2020-03-13)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.19...v1.0.20)
 
