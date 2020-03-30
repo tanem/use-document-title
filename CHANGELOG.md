@@ -1,5 +1,25 @@
 # Changelog
 
+## [v1.0.22](https://github.com/tanem/use-document-title/tree/v1.0.22) (2020-03-30)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.21...v1.0.22)
+
+#### :house: Internal
+
+- [#283](https://github.com/tanem/use-document-title/pull/283) Update dependency eslint-plugin-react-hooks to v3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#278](https://github.com/tanem/use-document-title/pull/278) Update typescript-eslint monorepo to v2.25.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#281](https://github.com/tanem/use-document-title/pull/281) Update dependency rollup to v2.2.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#280](https://github.com/tanem/use-document-title/pull/280) Update babel monorepo ([@renovate[bot]](https://github.com/apps/renovate))
+- [#279](https://github.com/tanem/use-document-title/pull/279) Update dependency prettier to v2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#282](https://github.com/tanem/use-document-title/pull/282) Use codecov bash uploader ([@tanem](https://github.com/tanem))
+- [#269](https://github.com/tanem/use-document-title/pull/269) Update dependency @testing-library/react to v10 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#276](https://github.com/tanem/use-document-title/pull/276) Update dependency tanem-scripts to v5.0.16 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#277](https://github.com/tanem/use-document-title/pull/277) Update dependency eslint-config-prettier to v6.10.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#275](https://github.com/tanem/use-document-title/pull/275) Update dependency react-scripts to v3.4.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#274](https://github.com/tanem/use-document-title/pull/274) Update dependency @types/react to v16.9.25 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#272](https://github.com/tanem/use-document-title/pull/272) Update dependency rollup to v2.1.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#271](https://github.com/tanem/use-document-title/pull/271) Update typescript-eslint monorepo to v2.24.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#273](https://github.com/tanem/use-document-title/pull/273) Update react monorepo ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.21](https://github.com/tanem/use-document-title/tree/v1.0.21) (2020-03-21)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.20...v1.0.21)
 
