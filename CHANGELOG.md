@@ -1,5 +1,20 @@
 # Changelog
 
+## [v1.0.24](https://github.com/tanem/use-document-title/tree/v1.0.24) (2020-04-11)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.23...v1.0.24)
+
+#### :house: Internal
+
+- [#299](https://github.com/tanem/use-document-title/pull/299) Update dependency @babel/preset-env to v7.9.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#298](https://github.com/tanem/use-document-title/pull/298) Update typescript-eslint monorepo to v2.27.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#297](https://github.com/tanem/use-document-title/pull/297) Update dependency rollup-plugin-filesize to v7 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#296](https://github.com/tanem/use-document-title/pull/296) Update dependency prettier to v2.0.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#295](https://github.com/tanem/use-document-title/pull/295) Update dependency tanem-scripts to v5.0.18 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#294](https://github.com/tanem/use-document-title/pull/294) Update dependency @types/jest to v25.2.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#293](https://github.com/tanem/use-document-title/pull/293) Update dependency ts-jest to v25.3.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#292](https://github.com/tanem/use-document-title/pull/292) Update dependency jest to v25.2.7 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#291](https://github.com/tanem/use-document-title/pull/291) Update dependency @types/react to v16.9.32 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.23](https://github.com/tanem/use-document-title/tree/v1.0.23) (2020-04-04)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.22...v1.0.23)
 
