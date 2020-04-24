@@ -1,5 +1,18 @@
 # Changelog
 
+## [v1.0.26](https://github.com/tanem/use-document-title/tree/v1.0.26) (2020-04-24)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.25...v1.0.26)
+
+#### :house: Internal
+
+- [#311](https://github.com/tanem/use-document-title/pull/311) Update dependency eslint-config-prettier to v6.11.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#310](https://github.com/tanem/use-document-title/pull/310) Update dependency prettier to v2.0.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#309](https://github.com/tanem/use-document-title/pull/309) Update dependency @testing-library/react to v10.0.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#308](https://github.com/tanem/use-document-title/pull/308) Update typescript-eslint monorepo to v2.29.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#307](https://github.com/tanem/use-document-title/pull/307) Update dependency jest to v25.4.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#306](https://github.com/tanem/use-document-title/pull/306) Update dependency tanem-scripts to v5.0.20 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#305](https://github.com/tanem/use-document-title/pull/305) Update dependency ts-jest to v25.4.0 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.25](https://github.com/tanem/use-document-title/tree/v1.0.25) (2020-04-17)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.24...v1.0.25)
 
