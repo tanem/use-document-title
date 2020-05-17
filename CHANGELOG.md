@@ -1,5 +1,32 @@
 # Changelog
 
+## [v1.0.28](https://github.com/tanem/use-document-title/tree/v1.0.28) (2020-05-17)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.27...v1.0.28)
+
+#### :house: Internal
+
+- [#336](https://github.com/tanem/use-document-title/pull/336) Update dependency @types/jest to v25.2.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#335](https://github.com/tanem/use-document-title/pull/335) Update dependency eslint-plugin-react-hooks to v4.0.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#334](https://github.com/tanem/use-document-title/pull/334) Update dependency eslint-plugin-react to v7.20.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#333](https://github.com/tanem/use-document-title/pull/333) Update typescript-eslint monorepo to v2.33.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#332](https://github.com/tanem/use-document-title/pull/332) Update dependency typescript to v3.9.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#331](https://github.com/tanem/use-document-title/pull/331) Update dependency rollup-plugin-filesize to v9 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#327](https://github.com/tanem/use-document-title/pull/327) Update dependency eslint to v7 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#330](https://github.com/tanem/use-document-title/pull/330) Update dependency @types/react-dom to v16.9.8 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#329](https://github.com/tanem/use-document-title/pull/329) Update dependency @types/react to v16.9.35 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#328](https://github.com/tanem/use-document-title/pull/328) Update dependency ts-jest to v25.5.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#326](https://github.com/tanem/use-document-title/pull/326) Update dependency rollup-plugin-sourcemaps to v0.6.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#325](https://github.com/tanem/use-document-title/pull/325) Update dependency rollup to v2.8.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#324](https://github.com/tanem/use-document-title/pull/324) Update dependency jest to v26 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#323](https://github.com/tanem/use-document-title/pull/323) Update typescript-eslint monorepo to v2.31.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#322](https://github.com/tanem/use-document-title/pull/322) Update dependency tanem-scripts to v5.0.22 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#321](https://github.com/tanem/use-document-title/pull/321) Update dependency rollup-plugin-filesize to v8 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#320](https://github.com/tanem/use-document-title/pull/320) Update dependency eslint-plugin-react-hooks to v4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#319](https://github.com/tanem/use-document-title/pull/319) Update dependency rollup-plugin-sourcemaps to v0.6.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#318](https://github.com/tanem/use-document-title/pull/318) Update dependency rollup to v2.7.6 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#317](https://github.com/tanem/use-document-title/pull/317) Update dependency @testing-library/react to v10.0.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#316](https://github.com/tanem/use-document-title/pull/316) Update babel monorepo to v7.9.6 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.27](https://github.com/tanem/use-document-title/tree/v1.0.27) (2020-05-02)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.26...v1.0.27)
 
