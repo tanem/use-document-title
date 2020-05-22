@@ -1,5 +1,16 @@
 # Changelog
 
+## [v1.0.29](https://github.com/tanem/use-document-title/tree/v1.0.29) (2020-05-22)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.28...v1.0.29)
+
+#### :house: Internal
+
+- [#341](https://github.com/tanem/use-document-title/pull/341) Update dependency @types/jest to v25.2.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#340](https://github.com/tanem/use-document-title/pull/340) Update dependency tanem-scripts to v5.0.23 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#339](https://github.com/tanem/use-document-title/pull/339) Update dependency del-cli to v3.0.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#338](https://github.com/tanem/use-document-title/pull/338) Update dependency ts-jest to v26 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#337](https://github.com/tanem/use-document-title/pull/337) Update dependency rollup to v2.10.2 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.28](https://github.com/tanem/use-document-title/tree/v1.0.28) (2020-05-17)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.27...v1.0.28)
 
