@@ -73,7 +73,6 @@ const getPlugins = (bundleType) => [
   sourcemaps(),
   isProduction(bundleType) &&
     terser({
-      sourcemap: true,
       output: { comments: false },
       compress: {
         keep_infinity: true,
