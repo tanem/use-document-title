@@ -1,5 +1,14 @@
 # Changelog
 
+## [v1.0.31](https://github.com/tanem/use-document-title/tree/v1.0.31) (2020-06-06)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.30...v1.0.31)
+
+#### :house: Internal
+
+- [#352](https://github.com/tanem/use-document-title/pull/352) Update typescript-eslint monorepo to v3.1.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#351](https://github.com/tanem/use-document-title/pull/351) Update dependency ts-jest to v26.1.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#350](https://github.com/tanem/use-document-title/pull/350) Update babel monorepo ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.30](https://github.com/tanem/use-document-title/tree/v1.0.30) (2020-06-01)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.29...v1.0.30)
 
