@@ -1,10 +1,19 @@
 # Changelog
 
-## [v1.0.36](https://github.com/tanem/use-document-title/tree/v1.0.36) (2020-07-17)
-[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.35...v1.0.36)
+## [v1.0.37](https://github.com/tanem/use-document-title/tree/v1.0.37) (2020-07-24)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.35...v1.0.37)
 
 #### :house: Internal
 
+- [#405](https://github.com/tanem/use-document-title/pull/405) Update typescript-eslint monorepo to v3.7.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#404](https://github.com/tanem/use-document-title/pull/404) Update dependency rollup to v2.22.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#403](https://github.com/tanem/use-document-title/pull/403) Update dependency eslint to v7.5.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#402](https://github.com/tanem/use-document-title/pull/402) Update dependency @types/jest to v26.0.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#401](https://github.com/tanem/use-document-title/pull/401) Update dependency tanem-scripts to v5.0.32 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#400](https://github.com/tanem/use-document-title/pull/400) Update dependency typescript to v3.9.7 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#399](https://github.com/tanem/use-document-title/pull/399) Update dependency ts-jest to v26.1.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#398](https://github.com/tanem/use-document-title/pull/398) Update dependency @testing-library/react to v10.4.7 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#397](https://github.com/tanem/use-document-title/pull/397) Update babel monorepo to v7.10.5 ([@renovate[bot]](https://github.com/apps/renovate))
 - [#396](https://github.com/tanem/use-document-title/pull/396) Update typescript-eslint monorepo to v3.6.1 ([@renovate[bot]](https://github.com/apps/renovate))
 - [#395](https://github.com/tanem/use-document-title/pull/395) Update dependency eslint-plugin-react-hooks to v4.0.8 ([@renovate[bot]](https://github.com/apps/renovate))
 - [#394](https://github.com/tanem/use-document-title/pull/394) Update dependency ts-jest to v26.1.2 ([@renovate[bot]](https://github.com/apps/renovate))
