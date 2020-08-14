@@ -1,5 +1,20 @@
 # Changelog
 
+## [v1.0.40](https://github.com/tanem/use-document-title/tree/v1.0.40) (2020-08-14)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.39...v1.0.40)
+
+#### :house: Internal
+
+- [#427](https://github.com/tanem/use-document-title/pull/427) Update dependency ts-jest to v26.2.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#426](https://github.com/tanem/use-document-title/pull/426) Update typescript-eslint monorepo to v3.9.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#425](https://github.com/tanem/use-document-title/pull/425) Update dependency @types/react to v16.9.46 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#424](https://github.com/tanem/use-document-title/pull/424) Update dependency rollup-plugin-terser to v7 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#423](https://github.com/tanem/use-document-title/pull/423) Update dependency tanem-scripts to v5.0.35 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#422](https://github.com/tanem/use-document-title/pull/422) Update dependency rollup to v2.23.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#421](https://github.com/tanem/use-document-title/pull/421) Update dependency @types/jest to v26.0.9 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#420](https://github.com/tanem/use-document-title/pull/420) Update babel monorepo ([@renovate[bot]](https://github.com/apps/renovate))
+- [#419](https://github.com/tanem/use-document-title/pull/419) Update dependency @testing-library/react to v10.4.8 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.39](https://github.com/tanem/use-document-title/tree/v1.0.39) (2020-08-07)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.38...v1.0.39)
 
