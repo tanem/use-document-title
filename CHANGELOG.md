@@ -1,5 +1,18 @@
 # Changelog
 
+## [v1.0.43](https://github.com/tanem/use-document-title/tree/v1.0.43) (2020-09-04)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.42...v1.0.43)
+
+#### :house: Internal
+
+- [#450](https://github.com/tanem/use-document-title/pull/450) Update typescript-eslint monorepo to v4 (major) ([@renovate[bot]](https://github.com/apps/renovate))
+- [#449](https://github.com/tanem/use-document-title/pull/449) Update dependency @types/react to v16.9.49 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#447](https://github.com/tanem/use-document-title/pull/447) Update dependency tanem-scripts to v5.0.38 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#446](https://github.com/tanem/use-document-title/pull/446) Update dependency rollup-plugin-terser to v7.0.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#445](https://github.com/tanem/use-document-title/pull/445) Update dependency @types/react to v16.9.48 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#444](https://github.com/tanem/use-document-title/pull/444) Update dependency ts-jest to v26.3.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#443](https://github.com/tanem/use-document-title/pull/443) Update dependency prettier to v2.1.1 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.42](https://github.com/tanem/use-document-title/tree/v1.0.42) (2020-08-28)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.41...v1.0.42)
 
