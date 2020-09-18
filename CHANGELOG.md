@@ -1,5 +1,17 @@
 # Changelog
 
+## [v1.0.45](https://github.com/tanem/use-document-title/tree/v1.0.45) (2020-09-18)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.44...v1.0.45)
+
+#### :house: Internal
+
+- [#473](https://github.com/tanem/use-document-title/pull/473) Update typescript-eslint monorepo to v4.1.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#470](https://github.com/tanem/use-document-title/pull/470) Update dependency @testing-library/react to v11.0.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#468](https://github.com/tanem/use-document-title/pull/468) Update dependency eslint to v7.9.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#465](https://github.com/tanem/use-document-title/pull/465) Update dependency tanem-scripts to v5.0.40 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#464](https://github.com/tanem/use-document-title/pull/464) Update dependency eslint-plugin-react-hooks to v4.1.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#461](https://github.com/tanem/use-document-title/pull/461) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.44](https://github.com/tanem/use-document-title/tree/v1.0.44) (2020-09-11)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.43...v1.0.44)
 
