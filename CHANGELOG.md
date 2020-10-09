@@ -1,5 +1,19 @@
 # Changelog
 
+## [v1.0.48](https://github.com/tanem/use-document-title/tree/v1.0.48) (2020-10-09)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.47...v1.0.48)
+
+#### :house: Internal
+
+- [#519](https://github.com/tanem/use-document-title/pull/519) Update dependency jest to v26.5.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#518](https://github.com/tanem/use-document-title/pull/518) Update dependency @types/react to v16.9.51 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#517](https://github.com/tanem/use-document-title/pull/517) Update typescript-eslint monorepo to v4.4.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#516](https://github.com/tanem/use-document-title/pull/516) Create codeql-analysis.yml ([@tanem](https://github.com/tanem))
+- [#515](https://github.com/tanem/use-document-title/pull/515) Tooling updates ([@tanem](https://github.com/tanem))
+- [#509](https://github.com/tanem/use-document-title/pull/509) Update dependency tanem-scripts to v5.0.43 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#508](https://github.com/tanem/use-document-title/pull/508) Update dependency eslint-plugin-react to v7.21.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#505](https://github.com/tanem/use-document-title/pull/505) Update dependency @types/react to v16.9.50 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.47](https://github.com/tanem/use-document-title/tree/v1.0.47) (2020-10-02)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.46...v1.0.47)
 
