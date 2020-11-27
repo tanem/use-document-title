@@ -1,5 +1,18 @@
 # Changelog
 
+## [v1.0.50](https://github.com/tanem/use-document-title/tree/v1.0.50) (2020-11-27)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.49...v1.0.50)
+
+#### :house: Internal
+
+- [#583](https://github.com/tanem/use-document-title/pull/583) Update typescript-eslint monorepo to v4.8.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#582](https://github.com/tanem/use-document-title/pull/582) Update dependency tanem-scripts to v6 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#581](https://github.com/tanem/use-document-title/pull/581) Update dependency react-scripts to v4.0.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#580](https://github.com/tanem/use-document-title/pull/580) Update dependency @types/react-dom to v17 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#579](https://github.com/tanem/use-document-title/pull/579) Update dependency @testing-library/react to v11.2.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#578](https://github.com/tanem/use-document-title/pull/578) Update dependency @types/react to v17 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#577](https://github.com/tanem/use-document-title/pull/577) Update dependency eslint to v7.14.0 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.49](https://github.com/tanem/use-document-title/tree/v1.0.49) (2020-11-23)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.48...v1.0.49)
 
