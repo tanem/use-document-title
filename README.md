@@ -1,11 +1,10 @@
 # use-document-title
 
 [![npm version][npmv-image]][npmv-url]
-[![build status][travis-image]][travis-url]
+[![build status][gh-actions-image]][gh-actions-url]
 [![coverage status][codecov-image]][codecov-url]
 [![npm downloads][npmd-image]][npmd-url]
-[![size][size-image]][size-url]
-[![gzip size][gzip-size-image]][gzip-size-url]
+[![minzipped size][minzipped-size-image]][minzipped-size-url]
 
 > A React hook that sets the current title of the document.
 
@@ -67,13 +66,11 @@ MIT
 
 [npmv-image]: https://img.shields.io/npm/v/@tanem/use-document-title.svg?style=flat-square
 [npmv-url]: https://www.npmjs.com/package/@tanem/use-document-title
-[travis-image]: https://img.shields.io/travis/tanem/use-document-title/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/tanem/use-document-title
+[gh-actions-image]: https://img.shields.io/github/workflow/status/tanem/use-document-title/ci?style=flat-square
+[gh-actions-url]: https://github.com/tanem/use-document-title/actions?query=workflow%3ACI
 [codecov-image]: https://img.shields.io/codecov/c/github/tanem/use-document-title.svg?style=flat-square
 [codecov-url]: https://codecov.io/gh/tanem/use-document-title
 [npmd-image]: https://img.shields.io/npm/dm/@tanem/use-document-title.svg?style=flat-square
 [npmd-url]: https://www.npmjs.com/package/@tanem/use-document-title
-[size-image]: http://img.badgesize.io/https://unpkg.com/@tanem/use-document-title/dist/use-document-title.umd.production.js?label=size&style=flat-square
-[size-url]: https://unpkg.com/@tanem/use-document-title/dist/
-[gzip-size-image]: http://img.badgesize.io/https://unpkg.com/@tanem/use-document-title/dist/use-document-title.umd.production.js?compression=gzip&label=gzip%20size&style=flat-square
-[gzip-size-url]: https://unpkg.com/@tanem/use-document-title/dist/
+[minzipped-size-image]: https://img.shields.io/bundlephobia/minzip/@tanem/use-document-title?style=flat-square
+[minzipped-size-url]: https://bundlephobia.com/result?p=@tanem/use-document-title
