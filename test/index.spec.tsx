@@ -9,6 +9,10 @@ afterEach(() => {
   cleanup()
 })
 
+it('fails', () => {
+  expect(1).toBe(2)
+});
+
 it('sets the document title', () => {
   const newTitle = 'New title'
   const C: React.FC<{ title: string }> = ({ title }) => {
