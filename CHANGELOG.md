@@ -1,5 +1,17 @@
 # Changelog
 
+## [v1.0.51](https://github.com/tanem/use-document-title/tree/v1.0.51) (2020-12-04)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.50...v1.0.51)
+
+#### :house: Internal
+
+- [#589](https://github.com/tanem/use-document-title/pull/589) Update typescript-eslint monorepo to v4.9.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#588](https://github.com/tanem/use-document-title/pull/588) Update dependency rollup to v2.34.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#587](https://github.com/tanem/use-document-title/pull/587) Update dependency prettier to v2.2.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#586](https://github.com/tanem/use-document-title/pull/586) Update dependency tanem-scripts to v6.0.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#584](https://github.com/tanem/use-document-title/pull/584) Switch from travis to gh actions ([@tanem](https://github.com/tanem))
+- [#576](https://github.com/tanem/use-document-title/pull/576) Update babel monorepo ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.50](https://github.com/tanem/use-document-title/tree/v1.0.50) (2020-11-27)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.49...v1.0.50)
 
