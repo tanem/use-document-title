@@ -1,5 +1,24 @@
 # Changelog
 
+## [v1.0.52](https://github.com/tanem/use-document-title/tree/v1.0.52) (2020-12-18)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.51...v1.0.52)
+
+#### :house: Internal
+
+- [#606](https://github.com/tanem/use-document-title/pull/606) Update typescript-eslint monorepo to v4.10.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#605](https://github.com/tanem/use-document-title/pull/605) Update dependency rollup to v2.35.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#604](https://github.com/tanem/use-document-title/pull/604) Update dependency typescript to v4.1.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#603](https://github.com/tanem/use-document-title/pull/603) Update dependency @types/jest to v26.0.19 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#600](https://github.com/tanem/use-document-title/pull/600) Update babel monorepo to v7.12.10 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#597](https://github.com/tanem/use-document-title/pull/597) Update typescript-eslint monorepo to v4.9.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#596](https://github.com/tanem/use-document-title/pull/596) Update dependency rollup to v2.34.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#595](https://github.com/tanem/use-document-title/pull/595) Update dependency eslint-config-prettier to v7 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#594](https://github.com/tanem/use-document-title/pull/594) Update dependency eslint to v7.15.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#593](https://github.com/tanem/use-document-title/pull/593) Update dependency rollup-plugin-filesize to v9.1.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#592](https://github.com/tanem/use-document-title/pull/592) Update dependency tanem-scripts to v6.0.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#591](https://github.com/tanem/use-document-title/pull/591) Update dependency cross-env to v7.0.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#590](https://github.com/tanem/use-document-title/pull/590) Update dependency @types/jest to v26.0.16 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.51](https://github.com/tanem/use-document-title/tree/v1.0.51) (2020-12-04)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.50...v1.0.51)
 
