@@ -1,5 +1,22 @@
 # Changelog
 
+## [v1.0.56](https://github.com/tanem/use-document-title/tree/v1.0.56) (2021-02-14)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.55...v1.0.56)
+
+#### :house: Internal
+
+- [#641](https://github.com/tanem/use-document-title/pull/641) Update dependency typescript to v4.1.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#640](https://github.com/tanem/use-document-title/pull/640) Update dependency ts-jest to v26.5.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#639](https://github.com/tanem/use-document-title/pull/639) Update typescript-eslint monorepo to v4.15.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#638](https://github.com/tanem/use-document-title/pull/638) Update dependency rollup to v2.38.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#637](https://github.com/tanem/use-document-title/pull/637) Update babel monorepo ([@renovate[bot]](https://github.com/apps/renovate))
+- [#636](https://github.com/tanem/use-document-title/pull/636) Update dependency react-scripts to v4.0.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#635](https://github.com/tanem/use-document-title/pull/635) Update dependency tanem-scripts to v6.0.7 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#634](https://github.com/tanem/use-document-title/pull/634) Update dependency @types/react to v17.0.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#633](https://github.com/tanem/use-document-title/pull/633) Update dependency @testing-library/react to v11.2.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#632](https://github.com/tanem/use-document-title/pull/632) Update typescript-eslint monorepo to v4.14.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#631](https://github.com/tanem/use-document-title/pull/631) Update dependency eslint to v7.19.0 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.55](https://github.com/tanem/use-document-title/tree/v1.0.55) (2021-02-03)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.54...v1.0.55)
 
