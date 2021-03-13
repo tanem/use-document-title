@@ -1,5 +1,22 @@
 # Changelog
 
+## [v1.0.59](https://github.com/tanem/use-document-title/tree/v1.0.59) (2021-03-13)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.58...v1.0.59)
+
+#### :house: Internal
+
+- [#668](https://github.com/tanem/use-document-title/pull/668) Update babel monorepo to v7.13.10 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#667](https://github.com/tanem/use-document-title/pull/667) Update dependency @types/react-dom to v17.0.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#666](https://github.com/tanem/use-document-title/pull/666) Update typescript-eslint monorepo to v4.17.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#665](https://github.com/tanem/use-document-title/pull/665) Update dependency @types/react to v17.0.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#664](https://github.com/tanem/use-document-title/pull/664) Update dependency typescript to v4.2.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#663](https://github.com/tanem/use-document-title/pull/663) Update dependency ts-jest to v26.5.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#662](https://github.com/tanem/use-document-title/pull/662) Update dependency tanem-scripts to v6.0.10 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#661](https://github.com/tanem/use-document-title/pull/661) Update babel monorepo ([@renovate[bot]](https://github.com/apps/renovate))
+- [#660](https://github.com/tanem/use-document-title/pull/660) Update typescript-eslint monorepo to v4.16.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#659](https://github.com/tanem/use-document-title/pull/659) Update dependency eslint to v7.21.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#658](https://github.com/tanem/use-document-title/pull/658) Update dependency rollup-plugin-filesize to v9.1.1 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.58](https://github.com/tanem/use-document-title/tree/v1.0.58) (2021-03-02)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.57...v1.0.58)
 
