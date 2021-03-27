@@ -1,5 +1,17 @@
 # Changelog
 
+## [v1.0.61](https://github.com/tanem/use-document-title/tree/v1.0.61) (2021-03-27)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.60...v1.0.61)
+
+#### :house: Internal
+
+- [#681](https://github.com/tanem/use-document-title/pull/681) Update dependency eslint-plugin-react to v7.23.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#680](https://github.com/tanem/use-document-title/pull/680) Update dependency @types/react-dom to v17.0.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#679](https://github.com/tanem/use-document-title/pull/679) Update react monorepo to v17.0.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#678](https://github.com/tanem/use-document-title/pull/678) Update typescript-eslint monorepo to v4.19.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#677](https://github.com/tanem/use-document-title/pull/677) Update dependency @babel/preset-env to v7.13.12 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#676](https://github.com/tanem/use-document-title/pull/676) Update dependency tanem-scripts to v6.0.12 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.60](https://github.com/tanem/use-document-title/tree/v1.0.60) (2021-03-21)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.59...v1.0.60)
 
