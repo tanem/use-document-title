@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.0.64](https://github.com/tanem/use-document-title/tree/v1.0.64) (2021-04-22)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.63...v1.0.64)
+
+#### :house: Internal
+
+- [#697](https://github.com/tanem/use-document-title/pull/697) Update dependency tanem-scripts to v6.0.15 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#696](https://github.com/tanem/use-document-title/pull/696) Update dependency ts-jest to v26.5.5 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.63](https://github.com/tanem/use-document-title/tree/v1.0.63) (2021-04-17)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.62...v1.0.63)
 
