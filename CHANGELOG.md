@@ -1,5 +1,20 @@
 # Changelog
 
+## [v1.0.69](https://github.com/tanem/use-document-title/tree/v1.0.69) (2021-06-25)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.68...v1.0.69)
+
+#### :house: Internal
+
+- [#755](https://github.com/tanem/use-document-title/pull/755) Update dependency jest to v27.0.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#754](https://github.com/tanem/use-document-title/pull/754) Update dependency @babel/preset-env to v7.14.7 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#753](https://github.com/tanem/use-document-title/pull/753) Update typescript-eslint monorepo to v4.28.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#752](https://github.com/tanem/use-document-title/pull/752) Update dependency rollup to v2.52.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#751](https://github.com/tanem/use-document-title/pull/751) Update dependency eslint to v7.29.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#750](https://github.com/tanem/use-document-title/pull/750) Update dependency tanem-scripts to v6.0.20 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#749](https://github.com/tanem/use-document-title/pull/749) Update dependency @types/react-dom to v17.0.8 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#748](https://github.com/tanem/use-document-title/pull/748) Update dependency typescript to v4.3.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#747](https://github.com/tanem/use-document-title/pull/747) Update dependency rollup to v2.52.1 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.68](https://github.com/tanem/use-document-title/tree/v1.0.68) (2021-06-18)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.67...v1.0.68)
 
