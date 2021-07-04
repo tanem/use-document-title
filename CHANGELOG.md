@@ -1,5 +1,18 @@
 # Changelog
 
+## [v1.0.70](https://github.com/tanem/use-document-title/tree/v1.0.70) (2021-07-04)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.69...v1.0.70)
+
+#### :house: Internal
+
+- [#762](https://github.com/tanem/use-document-title/pull/762) Update dependency typescript to v4.3.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#761](https://github.com/tanem/use-document-title/pull/761) Update typescript-eslint monorepo to v4.28.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#760](https://github.com/tanem/use-document-title/pull/760) Update dependency jest to v27.0.6 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#759](https://github.com/tanem/use-document-title/pull/759) Update dependency prettier to v2.3.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#758](https://github.com/tanem/use-document-title/pull/758) Update dependency tanem-scripts to v6.0.21 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#757](https://github.com/tanem/use-document-title/pull/757) Update dependency rollup to v2.52.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#756](https://github.com/tanem/use-document-title/pull/756) Update dependency @testing-library/react to v12 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.69](https://github.com/tanem/use-document-title/tree/v1.0.69) (2021-06-25)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.68...v1.0.69)
 
