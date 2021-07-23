@@ -1,6 +1,6 @@
 {
   "name": "@tanem/use-document-title",
-  "version": "1.0.72",
+  "version": "1.0.73",
   "description": "A React hook that sets the current title of the document.",
   "main": "dist/index.js",
   "module": "dist/use-document-title.esm.js",
