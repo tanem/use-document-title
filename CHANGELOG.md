@@ -1,5 +1,19 @@
 # Changelog
 
+## [v1.0.75](https://github.com/tanem/use-document-title/tree/v1.0.75) (2021-08-09)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.74...v1.0.75)
+
+#### :house: Internal
+
+- [#791](https://github.com/tanem/use-document-title/pull/791) Update dependency @types/react to v17.0.16 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#790](https://github.com/tanem/use-document-title/pull/790) Update dependency rollup to v2.56.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#789](https://github.com/tanem/use-document-title/pull/789) Update babel monorepo to v7.15.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#788](https://github.com/tanem/use-document-title/pull/788) Update typescript-eslint monorepo to v4.29.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#787](https://github.com/tanem/use-document-title/pull/787) Update dependency @babel/preset-env to v7.14.9 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#786](https://github.com/tanem/use-document-title/pull/786) Update dependency tanem-scripts to v6.0.27 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#785](https://github.com/tanem/use-document-title/pull/785) Update dependency eslint to v7.32.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#784](https://github.com/tanem/use-document-title/pull/784) Update dependency rollup to v2.55.1 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.74](https://github.com/tanem/use-document-title/tree/v1.0.74) (2021-08-01)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.73...v1.0.74)
 
