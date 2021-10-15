@@ -1,5 +1,14 @@
 # Changelog
 
+## [v1.0.84](https://github.com/tanem/use-document-title/tree/v1.0.84) (2021-10-15)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.83...v1.0.84)
+
+#### :house: Internal
+
+- [#843](https://github.com/tanem/use-document-title/pull/843) Update typescript-eslint monorepo to v5 (major) ([@renovate[bot]](https://github.com/apps/renovate))
+- [#841](https://github.com/tanem/use-document-title/pull/841) Update dependency jest to v27.2.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#840](https://github.com/tanem/use-document-title/pull/840) Update babel monorepo to v7.15.8 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.83](https://github.com/tanem/use-document-title/tree/v1.0.83) (2021-10-08)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.82...v1.0.83)
 
