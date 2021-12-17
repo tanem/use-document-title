@@ -1,5 +1,23 @@
 # Changelog
 
+## [v1.0.90](https://github.com/tanem/use-document-title/tree/v1.0.90) (2021-12-17)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.89...v1.0.90)
+
+#### :house: Internal
+
+- [#891](https://github.com/tanem/use-document-title/pull/891) Update dependency typescript to v4.5.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#889](https://github.com/tanem/use-document-title/pull/889) Update dependency jest to v27.4.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#890](https://github.com/tanem/use-document-title/pull/890) Update babel monorepo to v7.16.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#888](https://github.com/tanem/use-document-title/pull/888) Update typescript-eslint monorepo to v5.7.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#887](https://github.com/tanem/use-document-title/pull/887) Update dependency rollup to v2.61.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#886](https://github.com/tanem/use-document-title/pull/886) Update dependency jest to v27.4.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#885](https://github.com/tanem/use-document-title/pull/885) Update dependency typescript to v4.5.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#882](https://github.com/tanem/use-document-title/pull/882) Update dependency ts-jest to v27.1.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#884](https://github.com/tanem/use-document-title/pull/884) Update dependency eslint to v8.4.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#883](https://github.com/tanem/use-document-title/pull/883) Update typescript-eslint monorepo to v5.6.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#881](https://github.com/tanem/use-document-title/pull/881) Update dependency prettier to v2.5.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#880](https://github.com/tanem/use-document-title/pull/880) Update dependency jest to v27.4.3 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.89](https://github.com/tanem/use-document-title/tree/v1.0.89) (2021-12-03)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.88...v1.0.89)
 
