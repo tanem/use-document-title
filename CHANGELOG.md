@@ -1,5 +1,17 @@
 # Changelog
 
+## [v1.0.93](https://github.com/tanem/use-document-title/tree/v1.0.93) (2022-01-16)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.92...v1.0.93)
+
+#### :house: Internal
+
+- [#910](https://github.com/tanem/use-document-title/pull/910) Update babel monorepo to v7.16.8 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#909](https://github.com/tanem/use-document-title/pull/909) Update typescript-eslint monorepo to v5.9.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#908](https://github.com/tanem/use-document-title/pull/908) Update dependency rollup-plugin-filesize to v9.1.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#907](https://github.com/tanem/use-document-title/pull/907) Update dependency shx to v0.3.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#906](https://github.com/tanem/use-document-title/pull/906) Update dependency tanem-scripts to v6.0.36 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#905](https://github.com/tanem/use-document-title/pull/905) Update dependency jest to v27.4.7 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.92](https://github.com/tanem/use-document-title/tree/v1.0.92) (2022-01-08)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.91...v1.0.92)
 
