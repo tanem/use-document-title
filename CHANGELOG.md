@@ -1,5 +1,12 @@
 # Changelog
 
+## [v1.0.100](https://github.com/tanem/use-document-title/tree/v1.0.100) (2022-03-11)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.99...v1.0.100)
+
+#### :house: Internal
+
+- [#952](https://github.com/tanem/use-document-title/pull/952) Update dependency rollup to v2.70.0 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.99](https://github.com/tanem/use-document-title/tree/v1.0.99) (2022-03-08)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.98...v1.0.99)
 
