@@ -51,8 +51,8 @@
   },
   "homepage": "github:tanem/use-document-title",
   "peerDependencies": {
-    "react": "^16.8.0 || ^17.0.0",
-    "react-dom": "^16.8.0 || ^17.0.0"
+    "react": "^16.8.0 || ^17.0.0 || ^18.1.0",
+    "react-dom": "^16.8.0 || ^17.0.0 || ^18.1.0"
   },
   "dependencies": {
     "@babel/runtime": "^7.18.3"
