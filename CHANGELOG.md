@@ -1,5 +1,16 @@
 # Changelog
 
+## [v1.0.109](https://github.com/tanem/use-document-title/tree/v1.0.109) (2022-07-02)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.108...v1.0.109)
+
+#### :house: Internal
+
+- [#1048](https://github.com/tanem/use-document-title/pull/1048) Update jest monorepo to v28.1.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1047](https://github.com/tanem/use-document-title/pull/1047) Update dependency tanem-scripts to v6.0.51 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1046](https://github.com/tanem/use-document-title/pull/1046) Update babel monorepo to v7.18.6 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1045](https://github.com/tanem/use-document-title/pull/1045) Update typescript-eslint monorepo to v5.30.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1044](https://github.com/tanem/use-document-title/pull/1044) Update styfle/cancel-workflow-action action to v0.10.0 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.108](https://github.com/tanem/use-document-title/tree/v1.0.108) (2022-06-28)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.107...v1.0.108)
 
