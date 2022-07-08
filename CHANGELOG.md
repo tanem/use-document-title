@@ -1,5 +1,15 @@
 # Changelog
 
+## [v1.0.110](https://github.com/tanem/use-document-title/tree/v1.0.110) (2022-07-08)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.109...v1.0.110)
+
+#### :house: Internal
+
+- [#1052](https://github.com/tanem/use-document-title/pull/1052) Update dependency @types/react-dom to v18.0.6 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1051](https://github.com/tanem/use-document-title/pull/1051) Update typescript-eslint monorepo to v5.30.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1050](https://github.com/tanem/use-document-title/pull/1050) Update dependency tanem-scripts to v6.0.52 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1049](https://github.com/tanem/use-document-title/pull/1049) Update dependency eslint to v8.19.0 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.109](https://github.com/tanem/use-document-title/tree/v1.0.109) (2022-07-02)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.108...v1.0.109)
 
