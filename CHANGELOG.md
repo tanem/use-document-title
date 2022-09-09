@@ -1,5 +1,24 @@
 # Changelog
 
+## [v1.0.116](https://github.com/tanem/use-document-title/tree/v1.0.116) (2022-09-09)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.115...v1.0.116)
+
+#### :house: Internal
+
+- [#1091](https://github.com/tanem/use-document-title/pull/1091) Update babel monorepo to v7.19.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1092](https://github.com/tanem/use-document-title/pull/1092) Update dependency eslint-plugin-react to v7.31.7 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1090](https://github.com/tanem/use-document-title/pull/1090) Update typescript-eslint monorepo to v5.36.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1089](https://github.com/tanem/use-document-title/pull/1089) Update dependency @testing-library/react to v13.4.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1088](https://github.com/tanem/use-document-title/pull/1088) Update dependency rollup to v2.79.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1087](https://github.com/tanem/use-document-title/pull/1087) Update typescript-eslint monorepo to v5.36.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1086](https://github.com/tanem/use-document-title/pull/1086) Update dependency @types/react to v18.0.18 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1085](https://github.com/tanem/use-document-title/pull/1085) Update dependency eslint-plugin-react to v7.31.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1084](https://github.com/tanem/use-document-title/pull/1084) Update dependency eslint to v8.23.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1082](https://github.com/tanem/use-document-title/pull/1082) Update dependency typescript to v4.8.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1081](https://github.com/tanem/use-document-title/pull/1081) Update typescript-eslint monorepo to v5.35.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1080](https://github.com/tanem/use-document-title/pull/1080) Update dependency tanem-scripts to v6.0.58 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1079](https://github.com/tanem/use-document-title/pull/1079) Update dependency @babel/core to v7.18.13 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.115](https://github.com/tanem/use-document-title/tree/v1.0.115) (2022-08-22)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.114...v1.0.115)
 
