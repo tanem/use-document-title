@@ -1,5 +1,23 @@
 # Changelog
 
+## [v1.0.120](https://github.com/tanem/use-document-title/tree/v1.0.120) (2022-11-11)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.119...v1.0.120)
+
+#### :house: Internal
+
+- [#1143](https://github.com/tanem/use-document-title/pull/1143) Update dependency eslint to v8.27.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1142](https://github.com/tanem/use-document-title/pull/1142) Update babel monorepo to v7.20.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1141](https://github.com/tanem/use-document-title/pull/1141) Update jest monorepo ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1140](https://github.com/tanem/use-document-title/pull/1140) Update dependency @types/react to v18.0.25 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1144](https://github.com/tanem/use-document-title/pull/1144) Update typescript-eslint monorepo to v5.42.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1139](https://github.com/tanem/use-document-title/pull/1139) Update dependency @babel/runtime to ^7.20.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1138](https://github.com/tanem/use-document-title/pull/1138) Update dependency @types/jest to v29.2.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1137](https://github.com/tanem/use-document-title/pull/1137) Update typescript-eslint monorepo to v5.42.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1136](https://github.com/tanem/use-document-title/pull/1136) Update dependency tanem-scripts to v6.0.62 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1135](https://github.com/tanem/use-document-title/pull/1135) Update dependency @babel/runtime to ^7.20.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1134](https://github.com/tanem/use-document-title/pull/1134) Update dependency @types/react-dom to v18.0.8 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1133](https://github.com/tanem/use-document-title/pull/1133) Update dependency @types/react to v18.0.24 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.119](https://github.com/tanem/use-document-title/tree/v1.0.119) (2022-10-29)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.118...v1.0.119)
 
