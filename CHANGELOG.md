@@ -1,5 +1,18 @@
 # Changelog
 
+## [v1.0.121](https://github.com/tanem/use-document-title/tree/v1.0.121) (2022-11-19)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.120...v1.0.121)
+
+#### :house: Internal
+
+- [#1150](https://github.com/tanem/use-document-title/pull/1150) Update dependency typescript to v4.9.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1124](https://github.com/tanem/use-document-title/pull/1124) Update dependency rollup to v3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1149](https://github.com/tanem/use-document-title/pull/1149) Update dependency @types/react-dom to v18.0.9 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1148](https://github.com/tanem/use-document-title/pull/1148) Update dependency @types/jest to v29.2.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1147](https://github.com/tanem/use-document-title/pull/1147) Update typescript-eslint monorepo to v5.43.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1146](https://github.com/tanem/use-document-title/pull/1146) Update dependency tanem-scripts to v6.0.63 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1145](https://github.com/tanem/use-document-title/pull/1145) Update jest monorepo to v29.3.1 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.120](https://github.com/tanem/use-document-title/tree/v1.0.120) (2022-11-11)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.119...v1.0.120)
 
