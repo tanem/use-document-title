@@ -1,5 +1,23 @@
 # Changelog
 
+## [v1.0.124](https://github.com/tanem/use-document-title/tree/v1.0.124) (2022-12-18)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.123...v1.0.124)
+
+#### :house: Internal
+
+- [#1181](https://github.com/tanem/use-document-title/pull/1181) Update dependency @rollup/plugin-commonjs to v23.0.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1180](https://github.com/tanem/use-document-title/pull/1180) Update dependency rollup to v3.7.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1179](https://github.com/tanem/use-document-title/pull/1179) Update typescript-eslint monorepo to v5.46.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1177](https://github.com/tanem/use-document-title/pull/1177) Update dependency tanem-scripts to v6.0.66 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1178](https://github.com/tanem/use-document-title/pull/1178) Update dependency rollup to v3.7.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1176](https://github.com/tanem/use-document-title/pull/1176) Update dependency rollup to v3.7.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1175](https://github.com/tanem/use-document-title/pull/1175) Update dependency rollup to v3.7.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1174](https://github.com/tanem/use-document-title/pull/1174) Update typescript-eslint monorepo to v5.46.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1173](https://github.com/tanem/use-document-title/pull/1173) Update dependency rollup to v3.7.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1172](https://github.com/tanem/use-document-title/pull/1172) Update dependency typescript to v4.9.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1171](https://github.com/tanem/use-document-title/pull/1171) Update dependency @rollup/plugin-commonjs to v23.0.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1170](https://github.com/tanem/use-document-title/pull/1170) Update dependency prettier to v2.8.1 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.123](https://github.com/tanem/use-document-title/tree/v1.0.123) (2022-12-10)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.122...v1.0.123)
 
