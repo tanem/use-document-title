@@ -1,5 +1,18 @@
 # Changelog
 
+## [v1.0.125](https://github.com/tanem/use-document-title/tree/v1.0.125) (2022-12-23)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.124...v1.0.125)
+
+#### :house: Internal
+
+- [#1188](https://github.com/tanem/use-document-title/pull/1188) Update typescript-eslint monorepo to v5.47.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1187](https://github.com/tanem/use-document-title/pull/1187) Update dependency tanem-scripts to v6.0.67 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1186](https://github.com/tanem/use-document-title/pull/1186) Update dependency @rollup/plugin-commonjs to v24 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1185](https://github.com/tanem/use-document-title/pull/1185) Update dependency @rollup/plugin-commonjs to v23.0.7 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1184](https://github.com/tanem/use-document-title/pull/1184) Update dependency @rollup/plugin-replace to v5.0.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1183](https://github.com/tanem/use-document-title/pull/1183) Update dependency rollup to v3.7.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1182](https://github.com/tanem/use-document-title/pull/1182) Update dependency eslint to v8.30.0 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.124](https://github.com/tanem/use-document-title/tree/v1.0.124) (2022-12-18)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.123...v1.0.124)
 
