@@ -16,7 +16,6 @@
       "depTypeList": ["dependencies"],
       "rangeStrategy": "bump"
     },
-    // TODO (Tane): Drop this once https://github.com/rollup/plugins/issues/1371 is fixed.
     {
       "matchPackageNames": [
         "@rollup/plugin-terser"
