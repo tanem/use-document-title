@@ -66,7 +66,7 @@ MIT
 
 [npmv-image]: https://img.shields.io/npm/v/@tanem/use-document-title.svg?style=flat-square
 [npmv-url]: https://www.npmjs.com/package/@tanem/use-document-title
-[gh-actions-image]: https://img.shields.io/github/workflow/status/tanem/use-document-title/ci?style=flat-square
+[gh-actions-image]: https://img.shields.io/github/actions/workflow/status/tanem/use-document-title/ci.yml?branch=master&style=flat-square
 [gh-actions-url]: https://github.com/tanem/use-document-title/actions?query=workflow%3ACI
 [codecov-image]: https://img.shields.io/codecov/c/github/tanem/use-document-title.svg?style=flat-square
 [codecov-url]: https://codecov.io/gh/tanem/use-document-title
