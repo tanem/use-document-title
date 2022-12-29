@@ -1,5 +1,19 @@
 # Changelog
 
+## [v1.0.126](https://github.com/tanem/use-document-title/tree/v1.0.126) (2022-12-29)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.125...v1.0.126)
+
+#### :house: Internal
+
+- [#1196](https://github.com/tanem/use-document-title/pull/1196) Use allowed dep version ([@tanem](https://github.com/tanem))
+- [#1194](https://github.com/tanem/use-document-title/pull/1194) Reconfigure renovate ([@tanem](https://github.com/tanem))
+- [#1193](https://github.com/tanem/use-document-title/pull/1193) Update dependency tanem-scripts to v6.0.68 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1192](https://github.com/tanem/use-document-title/pull/1192) Update dependency @types/react-dom to v18.0.10 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1191](https://github.com/tanem/use-document-title/pull/1191) Update dependency rollup to v3.8.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1190](https://github.com/tanem/use-document-title/pull/1190) Update babel monorepo to v7.20.7 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1189](https://github.com/tanem/use-document-title/pull/1189) Update dependency rollup to v3.8.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1167](https://github.com/tanem/use-document-title/pull/1167) Update dependency @rollup/plugin-terser to v0.2.1 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.125](https://github.com/tanem/use-document-title/tree/v1.0.125) (2022-12-23)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.124...v1.0.125)
 
