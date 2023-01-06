@@ -1,5 +1,20 @@
 # Changelog
 
+## [v1.0.127](https://github.com/tanem/use-document-title/tree/v1.0.127) (2023-01-06)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.126...v1.0.127)
+
+#### :house: Internal
+
+- [#1204](https://github.com/tanem/use-document-title/pull/1204) Update typescript-eslint monorepo to v5.48.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1203](https://github.com/tanem/use-document-title/pull/1203) Update dependency eslint-config-prettier to v8.6.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1202](https://github.com/tanem/use-document-title/pull/1202) Update dependency rollup to v3.9.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1201](https://github.com/tanem/use-document-title/pull/1201) Update dependency eslint to v8.31.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1200](https://github.com/tanem/use-document-title/pull/1200) Update dependency @types/jest to v29.2.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1199](https://github.com/tanem/use-document-title/pull/1199) Update dependency rollup to v3.9.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1198](https://github.com/tanem/use-document-title/pull/1198) Fix renovate config ([@tanem](https://github.com/tanem))
+- [#1197](https://github.com/tanem/use-document-title/pull/1197) Fix build image link and tweak renovate config ([@tanem](https://github.com/tanem))
+- [#1195](https://github.com/tanem/use-document-title/pull/1195) Update typescript-eslint monorepo to v5.47.1 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.126](https://github.com/tanem/use-document-title/tree/v1.0.126) (2022-12-29)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.125...v1.0.126)
 
