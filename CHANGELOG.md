@@ -1,5 +1,17 @@
 # Changelog
 
+## [v1.0.131](https://github.com/tanem/use-document-title/tree/v1.0.131) (2023-02-12)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.130...v1.0.131)
+
+#### :house: Internal
+
+- [#1240](https://github.com/tanem/use-document-title/pull/1240) Update dependency prettier to v2.8.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1239](https://github.com/tanem/use-document-title/pull/1239) Update jest monorepo to v29.4.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1238](https://github.com/tanem/use-document-title/pull/1238) Update typescript-eslint monorepo to v5.51.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1237](https://github.com/tanem/use-document-title/pull/1237) Update dependency rollup to v3.14.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1236](https://github.com/tanem/use-document-title/pull/1236) Update dependency tanem-scripts to v6.0.70 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1235](https://github.com/tanem/use-document-title/pull/1235) Update dependency rollup to v3.13.0 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.130](https://github.com/tanem/use-document-title/tree/v1.0.130) (2023-02-04)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.129...v1.0.130)
 
