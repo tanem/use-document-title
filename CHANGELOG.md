@@ -1,5 +1,19 @@
 # Changelog
 
+## [v1.0.134](https://github.com/tanem/use-document-title/tree/v1.0.134) (2023-04-29)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.133...v1.0.134)
+
+#### :house: Internal
+
+- [#1304](https://github.com/tanem/use-document-title/pull/1304) Update dependency @types/react-dom to v18.2.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1303](https://github.com/tanem/use-document-title/pull/1303) Update react monorepo to v18.2.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1302](https://github.com/tanem/use-document-title/pull/1302) Update dependency tanem-scripts to v7.0.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1301](https://github.com/tanem/use-document-title/pull/1301) Update typescript-eslint monorepo to v5.59.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1300](https://github.com/tanem/use-document-title/pull/1300) Update dependency rollup to v3.21.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1299](https://github.com/tanem/use-document-title/pull/1299) Update dependency prettier to v2.8.8 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1298](https://github.com/tanem/use-document-title/pull/1298) Update dependency eslint to v8.39.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1297](https://github.com/tanem/use-document-title/pull/1297) Update dependency @types/react to v18.0.38 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.133](https://github.com/tanem/use-document-title/tree/v1.0.133) (2023-04-24)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.132...v1.0.133)
 
