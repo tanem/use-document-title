@@ -1,5 +1,24 @@
 # Changelog
 
+## [v1.0.136](https://github.com/tanem/use-document-title/tree/v1.0.136) (2023-05-12)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.135...v1.0.136)
+
+#### :house: Internal
+
+- [#1324](https://github.com/tanem/use-document-title/pull/1324) Update typescript-eslint monorepo to v5.59.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1323](https://github.com/tanem/use-document-title/pull/1323) Update dependency @types/react to v18.2.6 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1322](https://github.com/tanem/use-document-title/pull/1322) Update dependency eslint to v8.40.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1321](https://github.com/tanem/use-document-title/pull/1321) Update dependency tanem-scripts to v7.0.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1320](https://github.com/tanem/use-document-title/pull/1320) Update dependency @types/react-dom to v18.2.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1319](https://github.com/tanem/use-document-title/pull/1319) Update dependency rollup to v3.21.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1318](https://github.com/tanem/use-document-title/pull/1318) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1317](https://github.com/tanem/use-document-title/pull/1317) Update dependency @types/react to v18.2.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1316](https://github.com/tanem/use-document-title/pull/1316) Update dependency @types/react to v18.2.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1315](https://github.com/tanem/use-document-title/pull/1315) Update dependency @types/react to v18.2.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1313](https://github.com/tanem/use-document-title/pull/1313) Update react monorepo ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1314](https://github.com/tanem/use-document-title/pull/1314) Update dependency rollup to v3.21.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1312](https://github.com/tanem/use-document-title/pull/1312) Update dependency @babel/core to v7.21.8 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.135](https://github.com/tanem/use-document-title/tree/v1.0.135) (2023-05-05)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.134...v1.0.135)
 
