@@ -1,5 +1,18 @@
 # Changelog
 
+## [v1.0.138](https://github.com/tanem/use-document-title/tree/v1.0.138) (2023-05-26)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.137...v1.0.138)
+
+#### :house: Internal
+
+- [#1336](https://github.com/tanem/use-document-title/pull/1336) Update typescript-eslint monorepo to v5.59.7 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1335](https://github.com/tanem/use-document-title/pull/1335) Update dependency rollup to v3.23.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1325](https://github.com/tanem/use-document-title/pull/1325) Update dependency rollup to v3.22.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1334](https://github.com/tanem/use-document-title/pull/1334) Update dependency tanem-scripts to v7.0.6 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1333](https://github.com/tanem/use-document-title/pull/1333) Update dependency eslint to v8.41.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1332](https://github.com/tanem/use-document-title/pull/1332) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1331](https://github.com/tanem/use-document-title/pull/1331) Update dependency @rollup/plugin-terser to v0.4.3 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.137](https://github.com/tanem/use-document-title/tree/v1.0.137) (2023-05-20)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.136...v1.0.137)
 
