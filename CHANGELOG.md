@@ -1,5 +1,20 @@
 # Changelog
 
+## [v1.0.140](https://github.com/tanem/use-document-title/tree/v1.0.140) (2023-06-10)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.139...v1.0.140)
+
+#### :house: Internal
+
+- [#1353](https://github.com/tanem/use-document-title/pull/1353) Update typescript-eslint monorepo to v5.59.9 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1352](https://github.com/tanem/use-document-title/pull/1352) Update dependency rollup to v3.23.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1351](https://github.com/tanem/use-document-title/pull/1351) Update dependency eslint to v8.42.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1350](https://github.com/tanem/use-document-title/pull/1350) Update dependency tanem-scripts to v7.0.8 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1349](https://github.com/tanem/use-document-title/pull/1349) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1348](https://github.com/tanem/use-document-title/pull/1348) Update dependency @types/react to v18.2.8 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1347](https://github.com/tanem/use-document-title/pull/1347) Update dependency typescript to v5.1.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1346](https://github.com/tanem/use-document-title/pull/1346) Update dependency @types/jest to v29.5.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1345](https://github.com/tanem/use-document-title/pull/1345) Update dependency @rollup/plugin-node-resolve to v15.1.0 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.139](https://github.com/tanem/use-document-title/tree/v1.0.139) (2023-06-02)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.138...v1.0.139)
 
