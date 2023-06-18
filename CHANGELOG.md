@@ -1,5 +1,23 @@
 # Changelog
 
+## [v1.0.141](https://github.com/tanem/use-document-title/tree/v1.0.141) (2023-06-18)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.140...v1.0.141)
+
+#### :house: Internal
+
+- [#1365](https://github.com/tanem/use-document-title/pull/1365) Update typescript-eslint monorepo to v5.59.11 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1364](https://github.com/tanem/use-document-title/pull/1364) Update dependency rollup to v3.25.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1363](https://github.com/tanem/use-document-title/pull/1363) Update dependency rollup to v3.25.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1362](https://github.com/tanem/use-document-title/pull/1362) Update dependency tanem-scripts to v7.0.9 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1361](https://github.com/tanem/use-document-title/pull/1361) Update dependency @types/react to v18.2.11 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1360](https://github.com/tanem/use-document-title/pull/1360) Update dependency @types/react to v18.2.10 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1359](https://github.com/tanem/use-document-title/pull/1359) Update dependency rollup to v3.24.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1358](https://github.com/tanem/use-document-title/pull/1358) Update dependency @rollup/plugin-commonjs to v25.0.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1357](https://github.com/tanem/use-document-title/pull/1357) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1356](https://github.com/tanem/use-document-title/pull/1356) Update babel monorepo to v7.22.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1355](https://github.com/tanem/use-document-title/pull/1355) Update dependency @types/react to v18.2.9 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1354](https://github.com/tanem/use-document-title/pull/1354) Update dependency rollup to v3.24.0 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.140](https://github.com/tanem/use-document-title/tree/v1.0.140) (2023-06-10)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.139...v1.0.140)
 
