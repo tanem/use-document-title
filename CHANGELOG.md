@@ -1,5 +1,36 @@
 # Changelog
 
+## [v1.0.143](https://github.com/tanem/use-document-title/tree/v1.0.143) (2023-07-20)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.142...v1.0.143)
+
+#### :house: Internal
+
+- [#1403](https://github.com/tanem/use-document-title/pull/1403) Update dependency rollup to v3.26.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1402](https://github.com/tanem/use-document-title/pull/1402) Update dependency @rollup/plugin-commonjs to v25.0.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1401](https://github.com/tanem/use-document-title/pull/1401) Update dependency eslint to v8.45.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1400](https://github.com/tanem/use-document-title/pull/1400) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1399](https://github.com/tanem/use-document-title/pull/1399) Update dependency @types/react to v18.2.15 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1398](https://github.com/tanem/use-document-title/pull/1398) Update dependency @types/react-dom to v18.2.7 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1397](https://github.com/tanem/use-document-title/pull/1397) Update babel monorepo to v7.22.9 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1395](https://github.com/tanem/use-document-title/pull/1395) Update typescript-eslint monorepo to v5.62.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1394](https://github.com/tanem/use-document-title/pull/1394) Update dependency @types/jest to v29.5.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1393](https://github.com/tanem/use-document-title/pull/1393) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1392](https://github.com/tanem/use-document-title/pull/1392) Update jest monorepo to v29.6.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1391](https://github.com/tanem/use-document-title/pull/1391) Update dependency rollup to v3.26.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1390](https://github.com/tanem/use-document-title/pull/1390) Update babel monorepo ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1389](https://github.com/tanem/use-document-title/pull/1389) Update dependency prettier to v3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1388](https://github.com/tanem/use-document-title/pull/1388) Update dependency rollup to v3.26.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1387](https://github.com/tanem/use-document-title/pull/1387) Update jest monorepo to v29.6.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1386](https://github.com/tanem/use-document-title/pull/1386) Update babel monorepo to v7.22.6 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1385](https://github.com/tanem/use-document-title/pull/1385) Update typescript-eslint monorepo to v5.61.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1384](https://github.com/tanem/use-document-title/pull/1384) Update dependency eslint to v8.44.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1383](https://github.com/tanem/use-document-title/pull/1383) Update dependency tanem-scripts to v7.0.11 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1382](https://github.com/tanem/use-document-title/pull/1382) Update dependency ts-jest to v29.1.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1381](https://github.com/tanem/use-document-title/pull/1381) Update dependency rollup to v3.26.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1380](https://github.com/tanem/use-document-title/pull/1380) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1379](https://github.com/tanem/use-document-title/pull/1379) Update dependency typescript to v5.1.6 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1378](https://github.com/tanem/use-document-title/pull/1378) Update dependency typescript to v5.1.5 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.142](https://github.com/tanem/use-document-title/tree/v1.0.142) (2023-06-30)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.141...v1.0.142)
 
