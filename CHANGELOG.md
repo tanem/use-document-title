@@ -1,5 +1,27 @@
 # Changelog
 
+## [v1.0.144](https://github.com/tanem/use-document-title/tree/v1.0.144) (2023-08-05)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.143...v1.0.144)
+
+#### undefined
+
+- [#1415](https://github.com/tanem/use-document-title/pull/1415) Use createRoot ([@tanem](https://github.com/tanem))
+
+#### :house: Internal
+
+- [#1396](https://github.com/tanem/use-document-title/pull/1396) Update typescript-eslint monorepo to v6 (major) ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1405](https://github.com/tanem/use-document-title/pull/1405) Update dependency eslint-plugin-react to v7.33.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1414](https://github.com/tanem/use-document-title/pull/1414) Update dependency @types/react to v18.2.18 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1413](https://github.com/tanem/use-document-title/pull/1413) Update dependency rollup to v3.27.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1412](https://github.com/tanem/use-document-title/pull/1412) Update dependency eslint to v8.46.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1411](https://github.com/tanem/use-document-title/pull/1411) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1410](https://github.com/tanem/use-document-title/pull/1410) Update dependency eslint-config-prettier to v8.9.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1409](https://github.com/tanem/use-document-title/pull/1409) Update jest monorepo to v29.6.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1408](https://github.com/tanem/use-document-title/pull/1408) Update dependency @types/react to v18.2.17 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1407](https://github.com/tanem/use-document-title/pull/1407) Update dependency @types/react to v18.2.16 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1406](https://github.com/tanem/use-document-title/pull/1406) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1404](https://github.com/tanem/use-document-title/pull/1404) Update dependency tanem-scripts to v7.0.12 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.143](https://github.com/tanem/use-document-title/tree/v1.0.143) (2023-07-20)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.142...v1.0.143)
 
