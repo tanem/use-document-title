@@ -1,5 +1,21 @@
 # Changelog
 
+## [v1.0.145](https://github.com/tanem/use-document-title/tree/v1.0.145) (2023-08-11)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.144...v1.0.145)
+
+#### :house: Internal
+
+- [#1425](https://github.com/tanem/use-document-title/pull/1425) Update dependency @types/react to v18.2.19 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1424](https://github.com/tanem/use-document-title/pull/1424) Update typescript-eslint monorepo to v6.3.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1423](https://github.com/tanem/use-document-title/pull/1423) Update babel monorepo to v7.22.10 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1422](https://github.com/tanem/use-document-title/pull/1422) Update dependency eslint-config-prettier to v9 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1421](https://github.com/tanem/use-document-title/pull/1421) Update dependency tanem-scripts to v7.0.13 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1420](https://github.com/tanem/use-document-title/pull/1420) Update dependency rollup to v3.27.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1419](https://github.com/tanem/use-document-title/pull/1419) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1418](https://github.com/tanem/use-document-title/pull/1418) Update dependency rollup to v3.27.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1417](https://github.com/tanem/use-document-title/pull/1417) Update dependency eslint-config-prettier to v8.10.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1416](https://github.com/tanem/use-document-title/pull/1416) Update dependency prettier to v3.0.1 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.144](https://github.com/tanem/use-document-title/tree/v1.0.144) (2023-08-05)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.143...v1.0.144)
 
