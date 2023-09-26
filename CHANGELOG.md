@@ -1,5 +1,17 @@
 # Changelog
 
+## [v1.0.150](https://github.com/tanem/use-document-title/tree/v1.0.150) (2023-09-26)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.149...v1.0.150)
+
+#### :house: Internal
+
+- [#1472](https://github.com/tanem/use-document-title/pull/1472) Update babel monorepo to v7.22.20 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1471](https://github.com/tanem/use-document-title/pull/1471) Update dependency tanem-scripts to v7.0.18 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1470](https://github.com/tanem/use-document-title/pull/1470) Update dependency rollup to v3.29.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1469](https://github.com/tanem/use-document-title/pull/1469) Update dependency @types/jest to v29.5.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1468](https://github.com/tanem/use-document-title/pull/1468) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1467](https://github.com/tanem/use-document-title/pull/1467) Update dependency @babel/core to v7.22.19 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.149](https://github.com/tanem/use-document-title/tree/v1.0.149) (2023-09-16)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.148...v1.0.149)
 
