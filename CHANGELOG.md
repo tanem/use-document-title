@@ -1,5 +1,18 @@
 # Changelog
 
+## [v1.0.152](https://github.com/tanem/use-document-title/tree/v1.0.152) (2023-10-07)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.151...v1.0.152)
+
+#### :house: Internal
+
+- [#1486](https://github.com/tanem/use-document-title/pull/1486) Update styfle/cancel-workflow-action action to v0.12.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1485](https://github.com/tanem/use-document-title/pull/1485) Update typescript-eslint monorepo to v6.7.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1484](https://github.com/tanem/use-document-title/pull/1484) Update dependency @types/react to v18.2.24 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1483](https://github.com/tanem/use-document-title/pull/1483) Update dependency tanem-scripts to v7.0.20 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1482](https://github.com/tanem/use-document-title/pull/1482) Update dependency rollup to v3.29.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1480](https://github.com/tanem/use-document-title/pull/1480) Update dependency @types/react-dom to v18.2.8 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1481](https://github.com/tanem/use-document-title/pull/1481) Update dependency tanem-scripts to v7.0.19 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.151](https://github.com/tanem/use-document-title/tree/v1.0.151) (2023-09-29)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.150...v1.0.151)
 
