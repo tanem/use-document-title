@@ -1,5 +1,25 @@
 # Changelog
 
+## [v1.0.153](https://github.com/tanem/use-document-title/tree/v1.0.153) (2023-10-13)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.152...v1.0.153)
+
+#### :house: Internal
+
+- [#1500](https://github.com/tanem/use-document-title/pull/1500) Update typescript-eslint monorepo to v6.7.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1499](https://github.com/tanem/use-document-title/pull/1499) Update react monorepo ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1498](https://github.com/tanem/use-document-title/pull/1498) Update dependency @rollup/plugin-node-resolve to v15.2.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1497](https://github.com/tanem/use-document-title/pull/1497) Update dependency tanem-scripts to v7.0.21 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1496](https://github.com/tanem/use-document-title/pull/1496) Update dependency @types/react-dom to v18.2.11 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1495](https://github.com/tanem/use-document-title/pull/1495) Update dependency eslint to v8.51.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1494](https://github.com/tanem/use-document-title/pull/1494) Update dependency rollup to v4.0.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1493](https://github.com/tanem/use-document-title/pull/1493) Update dependency rollup to v4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1492](https://github.com/tanem/use-document-title/pull/1492) Update dependency @rollup/plugin-terser to v0.4.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1491](https://github.com/tanem/use-document-title/pull/1491) Update dependency @rollup/plugin-replace to v5.0.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1490](https://github.com/tanem/use-document-title/pull/1490) Update dependency @rollup/plugin-node-resolve to v15.2.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1489](https://github.com/tanem/use-document-title/pull/1489) Update dependency @rollup/plugin-commonjs to v25.0.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1488](https://github.com/tanem/use-document-title/pull/1488) Update dependency @rollup/plugin-babel to v6.0.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1487](https://github.com/tanem/use-document-title/pull/1487) Update react monorepo ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.152](https://github.com/tanem/use-document-title/tree/v1.0.152) (2023-10-07)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.151...v1.0.152)
 
