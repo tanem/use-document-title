@@ -1,5 +1,22 @@
 # Changelog
 
+## [v1.0.155](https://github.com/tanem/use-document-title/tree/v1.0.155) (2023-11-21)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.154...v1.0.155)
+
+#### :house: Internal
+
+- [#1551](https://github.com/tanem/use-document-title/pull/1551) Update dependency rollup to v4.5.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1550](https://github.com/tanem/use-document-title/pull/1550) Update dependency eslint to v8.54.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1549](https://github.com/tanem/use-document-title/pull/1549) Update dependency @testing-library/react to v14.1.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1548](https://github.com/tanem/use-document-title/pull/1548) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1547](https://github.com/tanem/use-document-title/pull/1547) Update dependency rollup to v4.4.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1546](https://github.com/tanem/use-document-title/pull/1546) Update typescript-eslint monorepo to v6.11.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1545](https://github.com/tanem/use-document-title/pull/1545) Update dependency prettier to v3.1.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1544](https://github.com/tanem/use-document-title/pull/1544) Update dependency tanem-scripts to v7.0.23 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1543](https://github.com/tanem/use-document-title/pull/1543) Update dependency rollup to v4.4.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1542](https://github.com/tanem/use-document-title/pull/1542) Update dependency rollup to v4.3.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1541](https://github.com/tanem/use-document-title/pull/1541) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.154](https://github.com/tanem/use-document-title/tree/v1.0.154) (2023-11-12)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.153...v1.0.154)
 
