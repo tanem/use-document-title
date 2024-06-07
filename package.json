@@ -56,7 +56,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.24.6",
-    "tslib": "^2.6.2"
+    "tslib": "^2.6.3"
   },
   "devDependencies": {
     "@babel/core": "7.24.6",
