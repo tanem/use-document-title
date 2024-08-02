@@ -59,9 +59,9 @@
     "tslib": "^2.6.3"
   },
   "devDependencies": {
-    "@babel/core": "7.24.9",
+    "@babel/core": "7.25.2",
     "@babel/plugin-transform-runtime": "7.24.7",
-    "@babel/preset-env": "7.25.0",
+    "@babel/preset-env": "7.25.2",
     "@babel/preset-react": "7.24.7",
     "@rollup/plugin-babel": "6.0.4",
     "@rollup/plugin-commonjs": "26.0.1",
