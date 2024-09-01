@@ -2,7 +2,6 @@ import babel from '@rollup/plugin-babel'
 import commonjs from '@rollup/plugin-commonjs'
 import nodeResolve from '@rollup/plugin-node-resolve'
 import replace from '@rollup/plugin-replace'
-import sourcemaps from 'rollup-plugin-sourcemaps'
 import terser from '@rollup/plugin-terser'
 import pkg from './package.json' assert { type: 'json' }
 
@@ -62,16 +61,16 @@ const getPlugins = (bundleType) => [
     babelHelpers: 'runtime',
     babelrc: false,
     exclude: 'node_modules/**',
+    inputSourceMap: true,
     presets: [['@babel/env', { loose: true, modules: false }], '@babel/react'],
     plugins: ['@babel/transform-runtime'],
   }),
   replace({
     'process.env.NODE_ENV': JSON.stringify(
-      isProduction(bundleType) ? 'production' : 'development'
+      isProduction(bundleType) ? 'production' : 'development',
     ),
     preventAssignment: true,
   }),
-  sourcemaps(),
   isProduction(bundleType) &&
     terser({
       output: { comments: false },
