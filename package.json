@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github:tanem/use-document-title"
+    "url": "git+https://github.com/tanem/use-document-title.git"
   },
   "keywords": [
     "document",
