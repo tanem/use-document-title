@@ -1,5 +1,12 @@
 # Changelog
 
+## [v1.0.160](https://github.com/tanem/use-document-title/tree/v1.0.160) (2024-09-01)
+[Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.159...v1.0.160)
+
+#### :house: Internal
+
+- [#1825](https://github.com/tanem/use-document-title/pull/1825) Fix pkg ([@tanem](https://github.com/tanem))
+
 ## [v1.0.159](https://github.com/tanem/use-document-title/tree/v1.0.159) (2024-09-01)
 [Full Changelog](https://github.com/tanem/use-document-title/compare/v1.0.158...v1.0.159)
 
