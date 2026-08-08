@@ -22,7 +22,6 @@
     "format": "prettier --write \"**/*.{js,ts,tsx}\"",
     "lint": "eslint .",
     "postbundle": "shx rm -rf compiled && shx cp ./index.js ./dist/index.js",
-    "release": "tanem-scripts release",
     "test": "run-s check:* lint build test:*",
     "test:cjs": "jest --config ./scripts/jest/config.cjs.js",
     "test:cjsprod": "jest --config ./scripts/jest/config.cjsprod.js",
@@ -89,7 +88,6 @@
     "react-dom": "18.3.1",
     "rollup": "4.24.3",
     "shx": "0.3.4",
-    "tanem-scripts": "7.0.27",
     "ts-jest": "29.2.5",
     "typescript": "5.6.3"
   }
