@@ -1,5 +1,7 @@
 # use-document-title
 
+> **Unmaintained.** This project is no longer maintained and the repository is archived. The npm package is deprecated.
+
 [![npm version][npmv-image]][npmv-url]
 [![build status][gh-actions-image]][gh-actions-url]
 [![coverage status][codecov-image]][codecov-url]
